@@ -1,3 +1,3 @@
 object HelloWorld extends App {
-    printIn("Hello World")
+    printIn("Hello, world!")
 }
