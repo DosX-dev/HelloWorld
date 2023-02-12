@@ -1,2 +1,2 @@
-# python is fuckin' shit!
+# python is a fuckin' shit!
 print("Hello, world!")
