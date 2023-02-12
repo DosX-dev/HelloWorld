@@ -7,4 +7,4 @@ _main:
     call    _printf
     add        esp, 4
 message:
-    db    'Hello World', 10, 0
+    db    'Hello, world!', 10, 0
