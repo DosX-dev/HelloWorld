@@ -1,0 +1,2 @@
+OpenConsole()
+Print("Hello, World!")
