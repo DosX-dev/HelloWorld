@@ -1,0 +1,6 @@
+PROGRAM
+
+CODE
+
+MESSAGE('Hello, world!','')
+RETURN
