@@ -1,0 +1,5 @@
+/* What??! CSS?! */
+
+h1::before {
+    content: "Hello, world!";
+}
