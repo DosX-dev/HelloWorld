@@ -1,0 +1,9 @@
+!!! System
+!!! System.Console
+!!! Microsoft.VisualBasic
+
+*$$ EzLogicProgram
+_$$ ENTRY_POINT
+	EX Console.WriteLine("пизда")
+.. _$$
+.. *$$
