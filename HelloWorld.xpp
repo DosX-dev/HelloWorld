@@ -1,0 +1,7 @@
+static void main(args Args)
+{
+ dialog dialog;
+ dialog = new dialog();
+ dialog.addText("Hello, world!");
+ dialog.run();
+}
