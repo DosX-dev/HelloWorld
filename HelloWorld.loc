@@ -1,0 +1,2 @@
+export helloW
+helloW = "Hello, world!"
