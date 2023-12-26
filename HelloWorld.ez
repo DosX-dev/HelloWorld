@@ -4,6 +4,6 @@
 
 *$$ EzLogicProgram
 _$$ ENTRY_POINT
-	EX Console.WriteLine("пизда")
+	EX Console.WriteLine("Hello, world!")
 .. _$$
 .. *$$
