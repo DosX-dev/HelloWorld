@@ -8,4 +8,4 @@ One version connects the origin of this phrase with the C programming language .
 
 Another version connects the origin of the phrase with early computer systems. In some systems, to check the correctness of the compiler or development environment, developers used a simple program that output the phrase "Hello, world!" on the screen. If this program worked without errors and printed the correct phrase, it means that the compiler and the environment were configured correctly.
 
-In any case, over time, the phrase "Hello, world!" It has become a symbol for novice programmers and symbolizes the first step in learning a new language or platform. This is a simple and minimal program that allows you to verify the operability of the development environment and master the basic language constructs.
+In any case, over time, the phrase "Hello, world!" has become a symbol for novice programmers and symbolizes the first step in learning a new language or platform. This is a simple and minimal program that allows you to verify the operability of the development environment and master the basic language constructs.
